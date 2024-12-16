@@ -22,6 +22,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
+
 # Apply custom CSS to set the background color to white
 st.markdown(
     """

@@ -11,6 +11,7 @@ from embedchain.helpers.callbacks import StreamingStdOutCallbackHandlerYield
 from embedchain.models.data_type import DataType
 from embedchain.loaders.base_loader import BaseLoader
 
+
 # Load environment variables
 load_dotenv()
 

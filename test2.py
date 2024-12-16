@@ -39,3 +39,4 @@ if st.button("Create Advertisement"):
 # Display the advertisement text
 if 'ad_text' in locals():
     st.write(ad_text)
+
